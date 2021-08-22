@@ -1,0 +1,14 @@
+/* .table-container {
+  overflow: scroll !important;
+} */
+.table-container table {
+  width: 98%;
+}
+.table-container td {
+  padding-left: 3.5rem;
+  padding-right: 1rem;
+  background-color: #fbfbfb;
+}
+.selected-item {
+  background-color: #ffffff !important;
+}
