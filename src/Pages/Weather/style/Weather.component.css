@@ -1,5 +1,5 @@
 .weather-container {
-  padding-top: 3rem;
+  padding-top: 30rem;
 }
 .weather-display {
   margin-left: 2.5rem;
@@ -27,6 +27,9 @@
   margin: 0;
 }
 @media only screen and (min-width: 600px) {
+  .weather-container {
+    padding-top: 3rem;
+  }
   .weather-display .temp {
     font-size: 125px;
     line-height: 122px;
