@@ -1,0 +1,15 @@
+/*
+ * File: netlify.toml
+ * Project: task
+ * File Created: Friday, 20th October 2023 1:50:10 pm
+ * Author: Jackson Thounaojam (jackson.thounaojam@mutualmobile.com)
+ * -----
+ * Last Modified: Friday, 20th October 2023 1:50:12 pm
+ * Modified By: Jackson Thounaojam (jackson.thounaojam@mutualmobile.com)
+ * -----
+ * Copyright 2020 - 2023 Mutual Mobile, Mutual Mobile
+ */
+[[redirects]]
+  from = "/*"
+  to = "/"
+  status = 200
