@@ -1,7 +1,11 @@
 #####################################################################
 Weather App
 #####################################################################
+
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/c35792f9-5829-4567-bcca-00fea933aea8/deploy-status)](https://app.netlify.com/sites/funny-cactus-42f73b/deploys)
+
+
 Instructions
 ———————
 
